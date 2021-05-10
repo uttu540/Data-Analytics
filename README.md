@@ -11,4 +11,6 @@ About Inner Join, how to do that: Open the .xlsx file twice and link the orders 
 
 The problems solved in the file (DAF).twbx are listed in Tasks file.
 
+Software Used: Tableau Public
 
+Tableau Profile Link: https://public.tableau.com/profile/utkarsh4369#!/
