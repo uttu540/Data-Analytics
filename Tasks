@@ -1,0 +1,44 @@
+Problems solved in the Tableau File
+
+A) Co-Relation Chart type
+Category Wise Sales and Profit
+Segment Wise Shipping Cost and Profit
+Order Priority Wise Discount and Profit
+Ship Mode Wise Shipping Cost and Sales
+
+B) Trend Line Chart type
+Year Wise Quarter Wise Profit By region
+Month Wise Total Sales for year 2013
+Quarter wise Shipping cost by Segment
+Year Wise Total Profit and Sales
+Year and Quarter Wise Total Profit By category and Subcategory 
+Quarter Wise total Profit and Quantity.
+
+C) Group/Sets, Matrix Report, Tabular Report - Draw Various Charts, use various color options, tooltips, labels, background colors, fonts, etc.
+By Using Sets create top 10 Products by Sales
+Create Set where Sale is Greater than 50000 and Lower than 150000
+Create Groups on Region
+Create Different Groups on Product Name for the product whose name starts with A, B, C, D And color it by group
+
+D) Parameter
+Top x Customers by Order Count
+Top x orders by order value in selected country, State and City
+Select Top Products by Sale Define Parameter Where User Can pass the value to select top Values
+
+E) Matrix Report
+Category, Subcategory wise Sales
+Country, Segment wise Profit
+Order priority, ship mode wise Shipping cost
+Year wise (Rows), Category, Subcategory wise Sales
+Category-wise (Rows), Year, Quarter Month wise Profit  
+
+F) Draw Tabular Reports
+Category, Subcategory wise Profit - Add subtotals and grand totals
+Country, segment wise Sales and Profit with totals
+Year, Quarter, Month wise Sales
+
+G) Calculated Field
+Show Co-Relation Co-efficient of Different Categories by orders has been placed.
+Show Co-Relation chart between Sale of 2013 and Sale of 2014 by Sub-Category for Country ‘India’
+Show Good, Normal, Low, Bad Profit by Subcategory for India And For year 2014
+Show Co-Relation chart by profit of 2014 and 2015 by segment For Top X Countries  
